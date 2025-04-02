@@ -43,3 +43,4 @@ Animate и Hide – логические переключатели on / off, с
 
 • HTML (без использования шаблонизаторов).
 
+![image](https://github.com/user-attachments/assets/acfdf814-5ae8-4e70-bd2c-670e8542f172)
