@@ -100,7 +100,8 @@ input{
     right: 0;
     bottom: 0;
     background-color: #eaf0f6;
-    transition: .2s;
+    transition: background-color .2s,
+                transform .2s;
     border-radius: var(--control-height);
   }
   
@@ -112,7 +113,8 @@ input{
     left: var(--slider-padding);
     bottom: var(--slider-padding);
     background-color: white;
-    transition: .2s;
+    transition: background-color .2s,
+                transform .2s;
     border-radius: 50%;
   }
   
